@@ -1,2 +1,2 @@
 # Social-Media-App
-A simple REST-api for social media using spring-boot , JPA, Docker, mysql-sh.
+A simple REST API for social media using Spring Boot, Maven, JPA, Docker, and MySQL.
